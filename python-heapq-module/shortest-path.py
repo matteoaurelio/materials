@@ -1,5 +1,5 @@
 import heapq
-
+##
 
 map = """\
 .......X..
